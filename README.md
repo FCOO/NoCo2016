@@ -5,21 +5,14 @@
 ## Description
 This application is ...
 
-## link (delete the wrong links!)
+## link
 
-
-    https://fcoo.dk/NoCo2016
-or
-
-    https://NoCo2016.fcoo.dk
-or
-
-    https://app.fcoo.dk/NoCo2016
+http://FCOO.github.io/NoCo2016/demo/ 
 
 
 ## Copyright and License
 
-Copyright (c) 2015 [FCOO](https://github.com/FCOO)
+Copyright (c) 2016 [FCOO](https://github.com/FCOO)
 
 ## Contact information
 
